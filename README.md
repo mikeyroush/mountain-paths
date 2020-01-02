@@ -44,7 +44,7 @@ enter space separated coordinates i.e. (45 56): 200 200
 
 Example output after converting ppm to a jpg
 
-![map with greedy paths](map-input-844-480.jpg)
+![map with greedy paths](map-input-844-480.dat.jpg)
 
 ## Authors
 
